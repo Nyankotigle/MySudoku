@@ -1,0 +1,11 @@
+﻿  MySudoku4.2.3.cpp
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(706): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(708): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(709): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(710): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(711): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(712): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(713): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(714): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+d:\c语言练习\mysudoku4.2\project1\mysudoku4.2.3.cpp(715): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+  Project1.vcxproj -> D:\C语言练习\MYSUDOKU4.2\x64\Debug\MYSUDOKU4.0.exe

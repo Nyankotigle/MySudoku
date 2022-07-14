@@ -1,0 +1,49 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MySudoku4.2.3 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPB273.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/MySudoku4.2.3.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPB273.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPB274.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/MySudoku4.2.3.pdb" /debug /machine:I386 /out:"Debug/MySudoku4.2.3.exe" /pdbtype:sept 
+".\Debug\MySudoku4.2.3.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPB274.tmp"
+<h3>Output Window</h3>
+Compiling...
+MySudoku4.2.3.cpp
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(113) : error C2371: 'm' : redefinition; different basic types
+        C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(88) : see declaration of 'm'
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(116) : error C2679: binary '=' : no operator defined which takes a right-hand operand of type 'struct MOUSEMSG' (or there is no acceptable conversion)
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(117) : error C2228: left of '.uMsg' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(118) : error C2228: left of '.x' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(118) : error C2228: left of '.x' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(118) : error C2228: left of '.y' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(118) : error C2228: left of '.y' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(130) : error C2228: left of '.x' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(130) : error C2228: left of '.x' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(130) : error C2228: left of '.y' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(130) : error C2228: left of '.y' must have class/struct/union type
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(333) : error C2065: 'errno_t' : undeclared identifier
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(333) : error C2146: syntax error : missing ';' before identifier 'err'
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(333) : error C2065: 'err' : undeclared identifier
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(334) : error C2065: 'fopen_s' : undeclared identifier
+C:\Users\Administrator\Desktop\C”Ô—‘¡∑œ∞\MYSUDOKU4.2\Project1\MySudoku4.2.3.cpp(929) : error C2146: syntax error : missing ';' before identifier 'err'
+÷¥–– cl.exe  ±≥ˆ¥Ì.
+
+
+
+<h3>Results</h3>
+MySudoku4.2.3.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

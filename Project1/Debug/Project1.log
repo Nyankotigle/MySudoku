@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MySudoku4.1.cpp
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(578): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(580): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(581): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(582): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(583): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(584): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(585): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(586): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\c语言练习\mysudoku4.0\project1\mysudoku4.1.cpp(587): warning C4244: “参数”: 从“LONGLONG”转换到“unsigned int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\C语言练习\MYSUDOKU4.0\Debug\MYSUDOKU4.0.exe
